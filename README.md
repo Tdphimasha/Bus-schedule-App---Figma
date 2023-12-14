@@ -11,20 +11,33 @@ Splash screen
 Login screen
 ![image](https://github.com/Tdphimasha/Bus-schedule-App---Figma/assets/96642932/1c09f9fd-c505-4b66-8c67-f5f78359200c)
 
+
 Sign up Screen
 ![image](https://github.com/Tdphimasha/Bus-schedule-App---Figma/assets/96642932/8f943675-dc9e-48e0-94e3-a82381cafc40)
+
+
 
 Sign In Screen
 ![Sign In](https://github.com/Tdphimasha/Bus-schedule-App---Figma/assets/96642932/98dd73ed-7bcf-4143-9343-b51674a23091)
 
+
+
 Recover pw screen
+
+
 ![Recover pw](https://github.com/Tdphimasha/Bus-schedule-App---Figma/assets/96642932/04d98375-8d56-46aa-8936-28a2fd862ddc)
 
+
+
 security code screen
+
 ![security code](https://github.com/Tdphimasha/Bus-schedule-App---Figma/assets/96642932/f4059337-7749-4be0-b4e8-2de5561fde6e)
 
 Home screen
+
 ![Home](https://github.com/Tdphimasha/Bus-schedule-App---Figma/assets/96642932/7218cc3b-da41-4bd6-89ab-6ed26571f224)
+
+
 
 Ticketprice screen
 ![Ticketprice](https://github.com/Tdphimasha/Bus-schedule-App---Figma/assets/96642932/76565425-2c87-41cf-9c10-bd5490bd5b38)
